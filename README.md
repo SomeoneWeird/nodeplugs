@@ -1,8 +1,11 @@
 
-== NodePlugs ==
+=== NodePlugs ===
 
 Node plugin manager.
 
+Installation:
+
+	npm install nodeplugs
 
 Usage:
 
