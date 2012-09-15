@@ -1,0 +1,18 @@
+{
+  "name": "NodePlugs",
+  "version": "0.0.1",
+  "description": "Node plugin loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "plugin",
+    "loader",
+    "modules",
+    "modular"
+  ],
+  "author": "Adam Brady",
+  "license": "BSD"
+}
