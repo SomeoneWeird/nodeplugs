@@ -1,5 +1,5 @@
 {
-  "name": "NodePlugs",
+  "name": "nodeplugs",
   "version": "0.0.1",
   "description": "Node plugin loader",
   "main": "index.js",
